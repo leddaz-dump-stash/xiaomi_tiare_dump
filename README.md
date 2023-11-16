@@ -1,0 +1,14 @@
+# tiare-user 8.1.0 OPM1.171019.026 V10.2.25.0.OCLMIXM release-keys
+- manufacturer: xiaomi
+- platform: msm8937
+- codename: tiare
+- flavor: tiare-user
+- release: 8.1.0
+- id: OPM1.171019.026
+- incremental: V10.2.25.0.OCLMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/tiare/tiare:8.1.0/OPM1.171019.026/V10.2.25.0.OCLMIXM:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: tiare-user-8.1.0-OPM1.171019.026-V10.2.25.0.OCLMIXM-release-keys
+- repo: xiaomi_tiare_dump
